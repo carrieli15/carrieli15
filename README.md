@@ -20,3 +20,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Language freak, both human and computer languages!
 
+
+$$
+begin{CD}
+A >@ a>> B \\
+@VBVV @AAcA \\
+C > D
+end{CD}
+$$
+

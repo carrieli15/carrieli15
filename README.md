@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 $$
 begin{CD}
-A >@ a>> B \\
+A @>a>> B \\
 @VBVV @AAcA \\
 C > D
 end{CD}

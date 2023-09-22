@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 <!--
 - 👯 I’m looking to collaborate on ...
 -->
-- 🤔 I’m looking for ***24 Summer Interns in DA & DS***.
+- 🤔 I’m looking for ***24 Summer Interns in DE & DA & DS***.
 <!--
 - 💬 Ask me about ...
 -->

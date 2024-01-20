@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m a currently master's student in Data Science at Duke University.
-- 🌱 I’m currently learning Data Engineering, Data Modeling, Python, R, and NLP.
+- 🌱 I’m currently learning Data Engineering, Machine Learning, Data Modeling, Python, R, and NLP.
 <!--
 - 👯 I’m looking to collaborate on ...
 -->

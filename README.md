@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 <!--
 - 👯 I’m looking to collaborate on ...
 -->
-- 🤔 I’m looking for ***2025 Fall PhD opportunities that align with my interest in data science technology, particularly those aimed at utilizing information science and Human-Computer Interaction (HCI) to create social impact***.
+- 🤔 I’m looking for ***2026 Spring & Fall PhD opportunities that align with my interest in data science technology, particularly those aimed at utilizing EdTech, information science and Human-Computer Interaction (HCI) to create social impact***.
 <!--
 - 💬 Ask me about ...
 -->

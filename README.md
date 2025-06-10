@@ -7,12 +7,13 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m a currently master's student in Data Science at Duke University.
-- 🌱 I’m currently learning Data Engineering, NLP, Machine Learning, Data Modeling, Python, and R.
+- 🔭 I completed my master's degree in Data Science at Duke University.
 <!--
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning Data Engineering, NLP, Machine Learning, Data Modeling, Python, and R.
 -->
-- 🤔 I’m looking for ***2026 Spring & Fall PhD opportunities that align with my interest in data science technology, particularly those aimed at utilizing EdTech, information science and Human-Computer Interaction (HCI) to create social impact***.
+- 👯 I’m looking to collaborate on Human-Computer Interaction (HCI) in EdTech, explainable technology, and usable security.
+
+- 🤔 I’m looking for ***2026 Spring & Fall PhD opportunities that align with my interest in data science technology, particularly those aimed at utilizing EdTech, explainable technology and Human-Computer Interaction (HCI) to create social impact***.
 <!--
 - 💬 Ask me about ...
 -->
